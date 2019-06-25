@@ -699,6 +699,9 @@ button[disabled], html input[disabled] {
   width: auto;
   max-width: 1150px;
 }
+.white-popup.white-popup-mod {
+  max-width: 828px;
+}
 
 .a a img.img-responsive {
 	opacity: 0.5;
